@@ -1,2 +1,2 @@
 # SIGSCpapers
-SIGC paper discussion materials, including papers PDF and PPT.
+Social Cyber Security paper discussion materials, including related papers PDF and PPT.
